@@ -22,9 +22,9 @@ pip install django-universal-sms
 
 ```python
 INSTALLED_APPS = [
-    'send_sms',
     'django.contrib.admin',
     '...',
+    'send_sms',
 ]
 ```
 

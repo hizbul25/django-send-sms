@@ -1,3 +1,4 @@
+LICENSE.txt
 MANIFEST.in
 README.rst
 setup.cfg
@@ -7,3 +8,13 @@ django_universal_sms.egg-info/SOURCES.txt
 django_universal_sms.egg-info/dependency_links.txt
 django_universal_sms.egg-info/requires.txt
 django_universal_sms.egg-info/top_level.txt
+send_sms/__init__.py
+send_sms/admin.py
+send_sms/apps.py
+send_sms/models.py
+send_sms/tests.py
+send_sms/views.py
+send_sms/migrations/0001_initial.py
+send_sms/migrations/0002_remove_smssettings_static_parameters_smsparameters.py
+send_sms/migrations/0003_rename_parameter_smsparameters_parameter_and_more.py
+send_sms/migrations/__init__.py
