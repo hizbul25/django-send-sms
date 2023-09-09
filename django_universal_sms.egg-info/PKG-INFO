@@ -1,0 +1,31 @@
+Metadata-Version: 1.2
+Name: django-universal-sms
+Version: 1.0.4
+Summary: Send SMS using Django
+Home-page: https://github.com/hizbul25/django-send-sms
+Author: Hizbul Bahar
+Author-email: hizbul.ku@gmail.com
+Maintainer: Hizbul Bahar
+Maintainer-email: hizbul.ku@gmail.com
+License: MIT
+Description: README.rst
+Keywords: SMS,SEND SMS,Universal SMS,Django SMS
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 3.2
+Classifier: Framework :: Django :: 4.0
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
